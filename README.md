@@ -1,6 +1,18 @@
-<h1 align="center" > GITHUB A LA PIETARI NOUTERE </h1>
+<h1 align="center">Welcome to my portfolio</h1>
 
-<!---
-PietarTheWise/PietarTheWise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="graphics.png"></img>
+<p align="center">
+  <a href="https://github.com/PietarTheWise/rtv1">RTv1</a> •
+  <a href="https://github.com/PietarTheWise/fractol">Fractol</a> •
+  <a href="https://github.com/PietarTheWise/fdf">Fdf</a>
+</p>
+
+## Hi, I'm Pietari Noutere
+
+<p>
+  I'm a developer with a strong design background, interested in various fields in the coding sector. Currently working a lot with 3D-graphics, and taking more and more interest in neural networks. In my past I've done plenty of graphics and ui design, also worked with solidity and deployed a decentralized application. I've also worked on a few startups gaining experience from robotics, iot and frontend development. Most of my current repositories are written in c.
+</p>
+
+## Skills:
+
+C / C++ / Python / Html / Css / Javascript / Solidity / Golang / React / Aws
