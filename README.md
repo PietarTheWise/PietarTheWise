@@ -10,7 +10,7 @@
 ## Hi, I'm Pietari Noutere
 
 <p>
-  I'm a developer with a strong design background, interested in various fields in the coding sector. Currently working a lot with computer graphics, and taking more and more interest in neural networks. In my past I've done plenty of graphics and ui design, also worked with solidity and deployed a decentralized application. I've also worked on a few startups gaining experience from robotics, iot and frontend development.
+  I'm a developer with a strong design background, interested in various fields in the coding sector. Currently working a lot with computer graphics, and taking more and more interest in neural networks, and blockchain development. In my past I've done plenty of graphics and ui design, also worked with solidity and deployed a decentralized application. I've also worked on a few startups gaining experience from robotics, iot and frontend development.
 </p>
 
 ## Skills:
