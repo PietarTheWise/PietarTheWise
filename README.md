@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my portfolio</h1>
+<h1 align="center">One Portfolio To Rule Them All</h1>
 
 <img src="graphics.png"></img>
 <p align="center">
@@ -7,12 +7,40 @@
   <a href="https://github.com/PietarTheWise/fdf">Fdf</a>
 </p>
 
-## Hi, I'm Pietari Noutere
+## Pietari Noutere
 
 <p>
-  I'm a developer with a strong design background, interested in various fields in the coding sector. Currently working a lot with computer graphics, taking more and more interest in neural networks and blockchain development. In my past I've done plenty of graphics and ui design, also worked with solidity and deployed a decentralized application. I've also worked on a few startups gaining experience from robotics, iot and frontend development.
+Software Developer with experience in data engineering, large-scale 3D simulation software, and mobile applications. Previously built production data pipelines in Python and contributed to a web-based mining simulation system using TypeScript and Three.js.
+
+Interested in systems-level development, computer graphics, and embedded technologies, with hands-on experience in C and C++ and a strong interest in electronics.
 </p>
 
-## Skills:
+## Technical Skills
 
-C / C++ / Python / Html / Css / Javascript / Solidity / Golang / React / Aws
+### Programming Languages
+- C++
+- C
+- Python
+- TypeScript
+
+### Systems & Backend
+- Data pipeline development (ETL, web scraping, automation)
+- REST API design
+- Data processing and validation
+- Application architecture
+
+### Graphics & Visualization
+- Three.js
+- WebGL
+- 3D application development
+- Performance optimization for browser-based rendering
+
+### Mobile Development
+- React Native
+- Cross-platform application architecture
+
+### Cloud & Tooling
+- AWS
+- Docker
+- Git
+- CI/CD workflows
