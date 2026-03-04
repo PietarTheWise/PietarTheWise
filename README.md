@@ -18,8 +18,8 @@ Interested in systems-level development, computer graphics, and embedded technol
 ## Technical Skills
 
 ### Programming Languages
-- C++
 - C
+- C++
 - Python
 - TypeScript
 
