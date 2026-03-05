@@ -10,9 +10,7 @@
 ## Pietari Noutere
 
 <p>
-Software Developer with experience in data engineering, large-scale 3D simulation software, and mobile applications. Previously built production data pipelines in Python and contributed to a web-based mining simulation system using TypeScript and Three.js.
-
-Interested in systems-level development, computer graphics, and embedded technologies, with hands-on experience in C and C++ and a strong interest in electronics.
+Software developer focused on C/C++ and systems-level programming. Experience includes embedded robotics development, hardware-software integration and performance-critical 3D simulation systems. Strong background in debugging, algorithms and building reliable technical software.
 </p>
 
 ## Technical Skills
