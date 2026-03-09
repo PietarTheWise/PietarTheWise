@@ -38,6 +38,7 @@ Software developer focused on C/C++ and systems-level programming. Experience in
 - Cross-platform application architecture
 
 ### Cloud & Tooling
+- Google Cloud
 - AWS
 - Docker
 - Git
