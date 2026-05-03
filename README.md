@@ -1,14 +1,17 @@
 <h1 align="center">One Portfolio To Rule Them All</h1>
-<h2 align="center">
-  Latest from the refinery
-</h2>
 
-<p align="center">
-  <a href="https://github.com/PietarTheWise/can-device-sim">Can Device Simulator</a> •
+## Pietari Noutere
+
+<p>
+Software developer focused on C/C++ and systems-level programming. Experience includes embedded robotics development, hardware-software integration and performance-critical 3D simulation systems. Strong background in debugging, algorithms and building reliable technical software.
+
+<a href="https://github.com/PietarTheWise/can-device-sim">Can Device Simulator</a> An Embedded-style C++ controller and device simulation over a CAN-inspired bus, with state machine, heartbeat watchdogs, and coordinated safety shutdown.
 </p>
+<br>
+<br>
+<br>
 
-
-
+## C Projects
 <img src="graphics.png"></img>
 <p align="center">
   <a href="https://github.com/PietarTheWise/rtv1">RTv1</a> •
@@ -16,11 +19,7 @@
   <a href="https://github.com/PietarTheWise/fdf">Fdf</a>
 </p>
 
-## Pietari Noutere
 
-<p>
-Software developer focused on C/C++ and systems-level programming. Experience includes embedded robotics development, hardware-software integration and performance-critical 3D simulation systems. Strong background in debugging, algorithms and building reliable technical software.
-</p>
 
 ## Technical Skills
 
