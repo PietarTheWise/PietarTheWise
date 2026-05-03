@@ -1,4 +1,13 @@
 <h1 align="center">One Portfolio To Rule Them All</h1>
+<h2 align="center">
+  Latest from the refinery
+</h2>
+
+<p align="center">
+  <a href="https://github.com/PietarTheWise/can-device-sim">Can Device Simulator</a> •
+</p>
+
+
 
 <img src="graphics.png"></img>
 <p align="center">
