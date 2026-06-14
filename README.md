@@ -9,10 +9,14 @@ Software developer focused on C/C++ and systems-level programming. Experience in
 <a href="https://github.com/PietarTheWise/can-device-sim">Can Device Simulator</a> An Embedded-style C++ controller and device simulation over a CAN-inspired bus, with state machine, heartbeat watchdogs, and coordinated safety shutdown.
 <br>
 <br>
-<a href="https://github.com/PietarTheWise/mock-spacecraft-avionics">Mock Spacecraft Avionics Project</a> FreeRTOS-based mock spacecraft avionics on STM32 F411RE. Multi-task sensor fusion with temperature-compensated gyroscope drift correction. (Work In Progress)
+<a href="https://github.com/PietarTheWise/mock-spacecraft-avionics">Mock Spacecraft Avionics Project</a> FreeRTOS-based mock spacecraft avionics on STM32 F411RE. Multi-task sensor fusion with communication from ground station (laptop) to the device (Nucleo Board).
 </p>
+
+https://github.com/user-attachments/assets/65297ff9-a04a-4c41-bd68-444dafec846a
+
 <br>
 <br>
+
 
 ## C Projects
 <img src="graphics.png"></img>
