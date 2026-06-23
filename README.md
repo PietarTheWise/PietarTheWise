@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/65297ff9-a04a-4c41-bd68-444dafec846a
 <br>
 
 
-## C Projects
+## Pre AI C Projects
 <img src="graphics.png"></img>
 <p align="center">
   <a href="https://github.com/PietarTheWise/rtv1">RTv1</a> •
