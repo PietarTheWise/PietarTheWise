@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/65297ff9-a04a-4c41-bd68-444dafec846a
 <br>
 
 
-## Pre AI C Projects
+## C Projects (Implemented Pre LLM era)
 <img src="graphics.png"></img>
 <p align="center">
   <a href="https://github.com/PietarTheWise/rtv1">RTv1</a> •
